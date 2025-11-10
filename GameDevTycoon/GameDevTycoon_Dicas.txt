@@ -1,0 +1,59 @@
+-G 64 
+Caça/Ação
+-
+-
+-Vena Gear ( Ação  , Simulação e Casual )
+Alien ? Não tenho
+Artes Marciais ? Não tenho
+Avião / Simulação ? Não tenho
+Comédia ? não tenho
+Corrida ? Não tenho
+Cyberpunk/Ação/Adulto-----
+Dança ? Não tenho
+Escola/Simulação/Infantil----
+Esportes/Casual/Todos------
+Filme ? Não tenho
+Hacking / Simulação / Todos -----
+Hist/Alt / Ação / Todos -----
+Moda ? Não tenho
+Música = 
+Pet Virtual = 
+Ritmo ? Não tenho
+
+Feito = A
+Ação = Cyber , HistAlt
+Simulação = Escola , Hacking 
+Casual = Esportes , Pet Virtual ,
+
+
+Caça 
+Hist / Alter 
+
+Alex Kidd = Fase / Espada
+Asterix = Ação / Fase
+Astro Warrior = Nave
+Batman = Fase 
+Black Belt = Luta/Round
+California Games = Esportes
+Castle Of Illusion =Fase 
+Danan = Fase
+Golden Axe = RPG 
+The Lucky = Fase / Ação
+Dragon Crystal = RPG 
+Eswat = Fase / Tiro
+Fantasy Zone II = Nave / Tiro
+Hang-On = Corrida de Moto
+Kenseiden = Fase / Samurai 
+Land of Illusion = Fase / Ação
+Master of Darkness = Fase / Ação
+Ninja Gaiden = Fase / Ninja /
+Outrun = Corrida / Carro
+Phantasy Star = Nave / RPG
+Power Strike II = Nave / Tiro
+R Type = Nave / Tiro
+Rastan = Espada / Fase
+Shinobi = Fase / Tiro
+Sonic = Fase / Ação
+Streets of Rage = Luta / Fase
+Wonder Boy = RPG 
+Zillion = Tiro / Fase

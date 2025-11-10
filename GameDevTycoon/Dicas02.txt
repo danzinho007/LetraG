@@ -1,0 +1,162 @@
+Peter 
+Design 680 >> 700
+
+Arnt
+Pesquisa 394 >> 400
+
+Ann
+Velocidade 299 >> 350
+
+Cristoph **
+Tecnologia 481 >> 700 (OK)
+
+Christian
+Design 403 
+
+Devon
+Pesquisa >> 468
+Velocidade >>
+
+Avião + Simulação
+Cirurgia + Simulação
+Corrida + Simulação
+Detetive + Aventura
+Oeste + Aventura
+
+Duplas
+
+Ação + Casual (
+
+Jogabilidade ++
+
+Design ++
+
+Gráfico +++
+Som ++
+
+-------------------------------------
+Fase 1 = 
+Ação + RPG 
+(Medieval )
+(História Alternativa no mBox )
+
+Engine ++ (100)
+Jogabilidade ++(100 encher tudo)
+História 0% (36)
+
+Diálogo 57%
+Level ++
+AI ++
+
+Design 48%
+Gráfico ++
+Som 71%
+
+------------------------------
+Ação + Simulação
+
+Engine  ++ (Bem importante)
+Jogabilidade ++ (90%)
+História 25%
+
+Diálogo 40%
+Design ++
+Ai +++	
+
+Gráfico +++
+Som ++
+-----------------------------------------------
+Simulação + Casual( Filmes ótima )
+
+Jogabilidade +++ (enche tudo)
+
+Diálogo 40%
+Design ++
+AI 25%
+
+Gráfico +++
+Som ++(100)
+------------------------------
+Masmorra + Ação + Simulação = ótima
+História 48%
+Engine 100
+Joga 100
+Diálogo 57%
+AI  um pouc
+Design = 71
+Gráfico 100
+som 100¨%
+
+Avião + Estratégia  = ótima
+Estratégia + PC = ótima
+Todos + PC = Boa
+
+Engine ++(metade)
+Gameplay +++ ( é importante )
+Story = 0 %
+
+Diálogo 0¨
+Level +++
+AI ++
+
+World +++
+Gráfico 0%
+Som ++
+
+Notas 7,8,7 e 8 = 18-21,25°= 20,552
+notas 6,5,6 e 6 = 
+Joga 5,7,7 e 6
+Design
+
+Avião + Simmulação = ótima
+Design muito importante
+Engine muito importante
+
+Comédia + Aventura = ótima
+AI = Não é importante
+Aventura + PC = ótima
+Adulto + PC = ótima
+
+Diálogo = 157  >> 235
+Design 17 >> 33
+Ai = 17 %
+Design 65 >> 135 bem importante
+Gráfico 81%
+Som = 17%
+Notas 7,6,7 e 7
+
+
+Corrida + Simulação = ótima
+Engine muito importante 
+
+Detetive + Aventura = Combinação ótima
+História/Missões bem importante 
+
+Escola e Aventura = ótima
+Design não é muito importante
+
+Fantasia + Aventura = ótima
+Infantil + PC = aceitável
+Engine = 32%
+Jogabilidade 23%
+História 112%
+Design 40¨% = não é importante
+Notas 7,8,8 e 9
+
+História + Aventura = ótima
+AI = não é importante
+Design = 100%
+Gráfico 100
+Som 33%
+Notas 8,7,8 e 7
+
+
+
+Oeste Selvagem + Aventura = Combinação Ruim
+AI não é importante
+
+Ritmo + Casual
+Engine = Salvar jogo
+Jogabilidade = full
+História = cinemática
+

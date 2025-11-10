@@ -1,0 +1,87 @@
+Dicas de nomes de jogos :
+
+Abstrato : 
+Dama , Xadrez e Go
+
+Alien :
+2014 - Alien : Isolation - PC,Linux,Ps3,Ps4,Xb360 e Xone
+
+Avião : 
+1982- Flight Simulator v 1.0= PC
+1984- v 2.0
+1988 - v 3.0
+1989 - v 4.0 Mac e PC
+1993 - v 5.0 
+1996 - Windows 95
+1997 - expansão
+1997 - 98 
+1998 - WWII Europe Series - PC
+1999 - 2000 - PC
+2000 - Microsoft Combat Flight Simulator 2 : WWII Pacific Theater = PC 
+2001 - 2002 - PC
+2002 - Sim 3 : Battle For Europe - PC
+2003 - 2004 : A Century of Light - PC
+2006 - X / Acceleration
+2012 - Microsoft Flight
+2020 - Microsoft Flight Simulator - Xone/Pc
+
+------------------------
+Abstrato + Aventura
+
+Hist +++ > 100
+Engin -- > 5
+Jogabi - > 6
+
+DesNiv -  > 11
+IntArt -- > 8
+Dialo +++ > 100
+
+Gráfico ++ > 83
+Som - > 20
+DesMund +++ > 100
+
+Notas : 9,10,10 e 10
+Média : 9.75
+------------------------
+Comédia + Aventura + G64
+
+Notas : 6,6,5 e6
+Média : 5.75
+Obs : DesNiv não é muito importante
+
+Filmes + Casual = Som !!!
+
+Eng --- > 6%
+Jog +++ > 100
+His --  > 6%
+
+Dia --  > 14
+Des +++ >100
+Int --- > 8%
+
+Grá +++ > 99
+Som ++  > 84
+Des --  > 12%
+
+Notas : 8,7,6 e 7
+Média : 7
+
+Ritmo + Simulação + PC
+
+Notas : 9,8,8 e 7 
+Média : 8
+Obs : Som muito importante
+
+Hist 
+Negócios + Sim ( 3 ) + PC ( 6 ) + E ( 9 ) + E-PC ( 11 )= 11 
+-DesMun = Não é muito importante
+
+Negócios + Est ( 3 ) + PC / G64 ( 6 ) + E ( 9 ) + E-G64 ( 11 ) = 11
+-Jog / DesMun = Muito importante
+
+Ritmo
+Comédia
+Super-Heróis
+
+PC 
+G64
