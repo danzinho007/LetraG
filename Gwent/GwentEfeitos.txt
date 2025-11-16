@@ -1,0 +1,35 @@
+!!! Gwent Efeitos das cartas !!!
+
+Banir :
+Remove a carta-alvo do jogo
+
+Corpo a corpo :
+Condição de habilidade que exige que a carta seja usada ou colocada na fileira corpo a corpo
+
+Cronômetro :
+Antes do final do seu turno, reduz em 1 o número. Quando o número chegar a 0, ativa a habilidade
+
+Dominância :
+Condição de habilidade que exige que você controle a unidade de maior poder ou empatada com a unidade de maior poder em jogo
+
+Fazer surgir :
+Adiciona uma carta ao jogo e a usa
+
+Frio :
+No início do turno de quem usou esta carta, causa 2 de dano a unidade com mais poder nesta fileira
+
+Invocação :
+Move a unidade-lavo do local especificado para o campo de batalha
+
+Mobilização :
+Condição de habilidade que exige o uso da carta. 
+Fazer surgir or invocar uma carta não conta como usá-la
+
+Ordem :
+Habilidade de ativação manual. Não é possível usar as habilidades de ordem no mesmo turno em que a carta aparece no campo de batalha
+
+Purificação :
+Remove todos status da unidade-alvo
+
+Tempo de espera :
+O número de turnos de uma habilidade de Ordem ou Taxa pode ser reutilizada

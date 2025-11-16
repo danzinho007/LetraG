@@ -1,0 +1,26 @@
+!!! Gwent Cartas !!!
+
+6 Velo Lança : Dormente
+Cronômetro, 3: Invoca Velho Lança do seu baralho para esta fileira e aumenta em 6 a sua base de poder. Em seguida, bane a si mesmo. Se Velho Lança: Dormente recebe dano, invoca Velho Lança do baralho e, em seguida, bane a si
+
+5 Nithral 8 vida 
+Ordem ( Corpo a corpo ) : Causa 1 de dano a uma unidade
+Dominância = Causa 2 a uma unidade em vez disso
+Tempo de espera : 1
+
+4 Caçada Cavaleiro
+Mobilização, Dominância : Invoca todas as cópias desta unidade do seu baralho para esta fileira
+
+4 Mestre de Obras de Naglfar 4
+Mobilização : purifica uma unidade inimiga
+Dominância : purifica uma unidade em vez disso
+
+3 Caçada : Navegadora 4
+Mobilização : Reforça uma unidade aliada na duração de Geada na fileira oposto ao alvo
+Dominância : Em vez disso, reforça uma unidade aliada na duração da Geada no lado do oponente no campo de batalha
+
+Viajantes Vermelhos 5
+Selecione um :
+Faz surgir Geada numa fileira inimiga por 4 turnos
+Faz surgir Geada numa fileira inimiga por 2 turnos e, em seguida, usada de novo uma unidade bronze de Caçada Selvagem
+Fazer surgir Geada nas duas fileiras inimigas por 2 turnos
